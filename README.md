@@ -1,2 +1,2 @@
 # B_tree
- # this is B_tree writtem by dmcheon
+ # this is B_tree written by dmcheon
